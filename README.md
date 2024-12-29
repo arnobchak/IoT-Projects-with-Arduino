@@ -68,7 +68,7 @@ The source code for each project is available in the `/source_code` folder. Each
 ## Setup and Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/IoT-Projects-Arduino-UNO.git
+   git clone https://github.com/arnobchak/IoT-Projects-with-Arduino.git
    ```
 2. Navigate to the desired project folder.
 3. Follow the instructions in the `README.md` file to set up the hardware and upload the code.
